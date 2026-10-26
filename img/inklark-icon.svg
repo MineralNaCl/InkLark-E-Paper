@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10mm" height="10mm" viewBox="0 0 100 100">
+  <title>InkLark E-Paper</title>
+  <desc>An origami bird made of three angular paper facets, separated by open fold lines. Monochrome filled outlines on a transparent background.</desc>
+  <g fill="#000000">
+    <path d="M 18,16 L 56,44 L 39,55 Z"/>
+    <path d="M 43,62 L 67,39 H 77 L 92,49 H 79 L 63,73 Z"/>
+    <path d="M 10,78 L 35,59 L 54,74 Z"/>
+  </g>
+</svg>
